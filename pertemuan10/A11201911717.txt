@@ -1,0 +1,6 @@
+A11.2019.11717
+Cube -> Component = Mesh Filter, Mesh Renderer, Box Collider
+Sphere -> Component = Mesh Filter, Mesh Renderer, Sphere Collider
+Capsule -> Component = Mesh Filter, Mesh Renderer, Capsule Collider
+Quad -> Component = Mesh Filter, Mesh Renderer, Mesh Collider
+Plane -> Component = Mesh Filter, Mesh Renderer, Mesh Collider
